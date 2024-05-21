@@ -1,7 +1,7 @@
 #!/usr/bin/env/python3
 """
 Use index_range to find the correct indexes to paginate the dataset
-correctly and
+correctly and very weell
 return the appropriate page of the dataset (i.e. the correct list of
 """
 import csv
