@@ -1,4 +1,4 @@
-#!/usr/bin/env/python3
+#!/usr/bin/env python3
 """
 Use index_range to find the correct indexes to paginate the dataset
 correctly and very weell
